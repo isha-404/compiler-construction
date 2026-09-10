@@ -1,4 +1,4 @@
-# This is Compiler Construction Repo
+# This is Compiler Construction Repository
 ### The List of Experiments are:
 
 1. Intro to Lex, MetaChar, and Patterns
