@@ -8,3 +8,6 @@
 5. Lowercase to Uppercase and vice-versa
 6. Decimal to Hexadecimal and vice-versa
 7. Lines ending with "COM"
+8. Postfix Expression
+9. Desk Calculator
+10. Parser for "FOR" loop
