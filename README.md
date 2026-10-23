@@ -11,3 +11,4 @@
 8. Postfix Expression
 9. Desk Calculator
 10. Parser for "FOR" loop
+11. Variable Declaration
