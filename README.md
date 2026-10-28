@@ -12,3 +12,4 @@
 9. Desk Calculator
 10. Parser for "FOR" loop
 11. Variable Declaration
+12. Intermediate Code Generation
